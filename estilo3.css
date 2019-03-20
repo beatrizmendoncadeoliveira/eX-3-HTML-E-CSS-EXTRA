@@ -1,0 +1,19 @@
+#corpo{
+	background-color:red;
+	color:white;
+	width:500px;
+	padding:5px;
+}
+
+#corpo2 img{ 
+float:left;
+}
+#corpo p{
+	font-family:Arial;
+}
+
+#corpo3{
+	float:right;
+	width:600px;
+	
+}
